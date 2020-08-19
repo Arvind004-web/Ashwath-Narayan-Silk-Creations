@@ -526,7 +526,7 @@ border-spacing:0 25px
 	
 }
 .contact-content{
-	  padding: 600px 20px 0px;
+	  padding: 800px 20px 0px;
 	  width:50%;
   }
   .container .box { 
@@ -617,8 +617,25 @@ font-size:15px;
 	
 }
 .contact-content{
-	  padding: 950px 20px 0px;
+	  padding: 1150px 20px 0px;
 	  width:50%;
 	  left:-15%;
   }
+.container .box { 
+  padding:750px 0px 0px;
+  float:left;
+  display:block;
+  }
+  .container .box .box-row { 
+                display:block;
+				
+            } 
+            .container .box .box-cell { 
+			display:block;
+			}
+			 .container .box .box-cell.box1 {
+				 padding:10px 0px 20px;
+				 width:500px;
+			 }
+			 
 }
